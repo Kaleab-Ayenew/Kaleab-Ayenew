@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kal</h1>
-<h3 align="center">I make full stack applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaleab-ayenew&label=Profile%20views&color=0e75b6&style=flat" alt="kaleab-ayenew" /> </p>
 
