@@ -4,10 +4,10 @@
 
 **Building tools at the intersection of AI and systems.**
 
-📍 Addis Ababa, Ethiopia · [Website](https://home.kal-dev.com/) · [LinkedIn](https://linkedin.com/in/kaleab-ayenew-7ba768202)
+📍 Addis Ababa, Ethiopia · [Website](https://kaleab-ayenew.github.io) · [LinkedIn](https://linkedin.com/in/kaleab-ayenew-7ba768202)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaleab-ayenew-7ba768202)
-[![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://home.kal-dev.com/)
+[![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kaleab-ayenew.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kaleab-Ayenew)
 
 </div>
