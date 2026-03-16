@@ -26,7 +26,7 @@ Learning, and learning, and learning. I ship **AI-powered tools** and **low-leve
 |--------|-------------|-------|
 | **[vity](https://github.com/Kaleab-Ayenew/vity)** | Terminal AI assistant that lets you control your shell in English | ⭐ 63 |
 | **[puncker-rt](https://github.com/Kaleab-Ayenew/puncker-rt)** | Low-level container runtime written in Python | ⭐ 10 |
-| **[chatvas](https://github.com/Kaleab-Ayenew/chatvas)** | Infinite canvas for your AI conversations | ⭐ 7 |
+| **[chatvas](https://github.com/Kaleab-Ayenew/chatvas)** | Infinite canvas for your AI conversations | ⭐ 11 |
 
 ---
 
