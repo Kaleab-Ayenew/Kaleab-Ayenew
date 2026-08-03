@@ -16,7 +16,10 @@
 
 ### About
 
-Learning, and learning, and learning. I ship **AI-powered tools** and **low-level systems**
+
+I ship **AI-powered tools** and **low-level systems**
+
+
 ---
 
 ### Tech stack
