@@ -33,18 +33,6 @@ I ship **AI-powered tools** and **low-level systems**
 
 ---
 
-### GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaleab-Ayenew&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaleab-Ayenew&layout=compact&theme=default&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 *Open to collaboration and new opportunities.*
